@@ -32,6 +32,6 @@ iKuh is a creation from our earlier days as programmers. Just like our current p
 We intended to have the desktop version be connected to an online community with level editor and level sharing. While we in fact implemented the website in Seaside and JavaScript, the website has already been down for some time. Therefore the Online-ID and Synchronize buttons don't work anymore.
 
 
-### My pig/cow does not go where it should or I expected it to be when pushed.
+### My pig/cow does not go where it should or where I expected it to be when pushed.
 
 The pushing behavior is a naive implementation that has a lot of weird edge cases. We tried to remedy that in the online version.
